@@ -1,9 +1,9 @@
-const SingIn = () => {
+const SignIn = () => {
     return (
         <div className="bg-red-100">
-            SingIn
+            SignIn
         </div>
     )
 }
 
-export default SingIn
+export default SignIn
